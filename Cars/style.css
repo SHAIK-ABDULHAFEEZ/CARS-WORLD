@@ -1,0 +1,26 @@
+h1{
+    color: white;
+    font-size: 40px;
+    font-style: normal;
+    background-blend-mode: difference;
+}
+h3{
+    color: white;
+    font-size: 30px;
+    font-style: normal;
+}
+h6{
+    color: white;
+    font-style: italic;
+    style
+    
+}
+button{
+    background-color: white;
+    color: black;
+    font-size: large;
+    border-radius: 140px;
+}
+button:hover{
+    cursor: pointer;
+}
